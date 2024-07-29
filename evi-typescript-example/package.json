@@ -1,7 +1,6 @@
 {
-  "name": "hume-evi-typescript-sample-project",
-  "private": true,
-  "version": "0.0.0",
+  "name": "Aitek Voice Interface AVM",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
